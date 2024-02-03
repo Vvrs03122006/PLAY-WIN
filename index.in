@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>Hello, World!</title>
+</head>
+<body>
+  <body style="background-color:#ffffdd;">
+  <h1>
+    <center>
+<p   class="oblique" style="color:red">PLAY & WIN</p>
+      
+
+    </center>
+ 
+<style>
+h1 {
+  text-shadow: 4px 3px Black;
+}
+</style>
+  </h1>
+     
+<table style="width:100% ">
+  <tr><FONT COLOR="BLACK">
+    <th>GAME</th>
+    <th>HOSTER NAME</th> 
+    <th>ID</th>
+    <th>PASS</th>
+    <th>TIME</th>
+    <th>MODE</th>
+  </tr>
+  <tr>
+    <td>free fire</td>
+    <td>vinod</td>
+    <td>456</td>
+    <td>link</td>
+    <td>1:28</td>
+    <td>solo</td>
+  </tr>
+    <tr>
+    <td>free fire</td>
+    <td>vino
+      d</td>
+    <td>456</td>
+    <td>link</td>
+    <td>1:28</td>
+    <td>solo</td>
+  </tr>
+      
+</table>
+    <style>
+        table, th, td {
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: powderblue;
+}
+    
+    </style>
+    <h2>Its is web page where you get chaance to win money by playing game .
+      <br>
+      Procedure:-<br>
+      1.You will get ID on this page only <br>
+      2.For PASS you have to visit following link<br>
+      3.Place where you will find pass<br>
+      for example:-<br>
+      Youtube:-on commment section
+    </h2>
+</body>
+</html>
